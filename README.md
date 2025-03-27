@@ -1,5 +1,5 @@
 <h1 align="center">Angular - The modern web developer's platform</h1>
-
+<p>Adding a new line for testing</p>
 <p align="center">
   <img src="adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="angular-logo" width="120px" height="120px"/>
   <br>
